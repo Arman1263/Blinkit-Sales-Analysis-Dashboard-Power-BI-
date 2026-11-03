@@ -4,7 +4,7 @@ An interactive Power BI dashboard analysing sales performance, customer ratings,
 
 ## Dashboard Preview
 
-![Blinkit Sales Dashboard](images/dashboard.png)
+![Blinkit Sales Dashboard](Dashboard_image.png)
 
 ## Business Objective
 
@@ -138,4 +138,4 @@ Business requirements and dataset are based on the Blinkit Analysis tutorial by 
 ## Author
 
 **Arman Shikalgar**
-[GitHub](https://github.com/your-username) | [LinkedIn](https://linkedin.com/in/your-profile)
+[GitHub](https://github.com/Arman1263) | [LinkedIn](https://linkedin.com/in/arman88)
